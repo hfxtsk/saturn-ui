@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1803px" height="181px" viewBox="0 0 1803 181" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#051046" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#2F55A1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页—应完成工单" transform="translate(-1270.000000, -1171.000000)">
+            <g id="编组" transform="translate(1270.000000, 1171.000000)">
+                <polygon id="矩形" fill="url(#linearGradient-1)" points="80 -1.42053036e-12 1719 -1.42053036e-12 1799 120 0 120"></polygon>
+                <rect id="矩形" fill-opacity="0.57" fill="#062A6B" x="4" y="121" width="1799" height="60"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
