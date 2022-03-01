@@ -1,9 +1,11 @@
 node_modules
 .DS_Store
 dist
+dist.zip
 dist-ssr
 *.local
 .idea/
+lib/
 
 package-lock.json
 yarn.lock
@@ -11,4 +13,3 @@ pnpm-lock.yaml
 
 components.d.ts
 .yarn/
-.vscode
