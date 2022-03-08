@@ -1,16 +1,16 @@
-# ice datav ui
+# IceDataV
 
-一款轻量级、模块化基于Vue3+TypeScript的Web前端UI组件库（含大屏模块，GIS模块，Admin模块） 👍
+一款轻量级、模块化的Web可视化UI组件库（含大屏模块，GIS模块，Admin模块） 👍
 
 
 ## 使用文档
 
-- **[产品手册](http://datav.hfxtsk.cn/)**
+- **[在线文档](http://datav.hfxtsk.cn/)**
 
 ## 安装
 
 ```Basic
-pnpm i ice-datav-ui@latest
+npm i ice-datav-ui@latest
 ```
 
 ### 使用
@@ -26,18 +26,17 @@ app.use(IceDataV);
 app.mount("#app");
 ```
 
-- 👉 在[快速开始](http://datav.hfxtsk.cn/doc/start) 中查看更多信息。
+- 👉 在[快速开始](https://datav.hfxtsk.cn/doc/start) 中查看更多信息。
 
-## 更新日志
+## 项目文档
 
-- [CHANGELOG.md](./CHANGELOG.md)
+- [Explain.md](https://datav.hfxtsk.cn)
 
 ## 贡献者
 
-- 小冰cc\<xuxb@hfxtsk.cn\>
-- ...
+- xuxb\<xuwoool@qq.com\>
 
 ## License
 
-- [MIT](./LICENSE)
+- [MIT](https://github.com/hfxtsk/ice-datav-ui/blob/main/LICENSE)
 - Copyright (c) 2019-present hfxtsk.cn
