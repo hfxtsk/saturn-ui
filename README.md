@@ -1,6 +1,6 @@
 # SaturnUI
 
-🪐 一款轻量级、模块化的Web可视化UI组件库（含大屏模块，GIS模块，Admin模块） 👍
+🪐 一款轻量级、模块化的Web可视化UI组件库（含大屏、GIS、图表、视频、后台等模块） 👍
 
 ## 使用文档
 
@@ -26,10 +26,6 @@ app.mount("#app");
 ```
 
 - 👉 在[快速开始](https://saturn.hfxtsk.cn/doc/start) 中查看更多信息。
-
-## 项目文档
-
-- [Explain.md](./Explain.md)
 
 ## License
 
